@@ -1,12 +1,12 @@
 {
   "description": "xprsh site",
-  "repo": "https://codeberg.org/xpr/pages",
+  "repo": "https://github.com/alexpkgs/alexpkgs.github.io",
   "owner": {
     "username": "xpr",
     "email": "xpr@atl.tools",
     "discord": "xprsh"
   },
   "record": {
-    "CNAME": "xpr.codeberg.page"
+    "CNAME": "https://alexpkgs.github.io"
   }
 }
